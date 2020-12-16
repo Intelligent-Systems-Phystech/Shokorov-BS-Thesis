@@ -1,0 +1,8 @@
+TensorFlow 1.x
+sklearn==0.22.2
+PIL==7.0.0
+numpy==1.18.5
+
+
+# github:
+https://github.com/NVlabs/stylegan2.git 
